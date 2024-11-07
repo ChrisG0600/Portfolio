@@ -88,28 +88,6 @@ body {
     }
 }
 
-
-/* .intro-section {
-    animation: fadeInLeft 1.5s ease-in-out;
-}
-
-.about-section {
-    animation: fadeInZoom 1.5s ease-in-out;
-}
-
-.project-section {
-    animation: fadeInRotate 1.5s ease-in-out;
-}
-
-.certificate-section {
-    animation: fadeInZoom 1.5s ease-in-out;
-}
-
-.footer {
-    animation: fadeInTop 1s ease-in-out;
-} */
-
-
 /* Navbar */
 .navbar {
     border-bottom: 1px solid black;
@@ -117,12 +95,12 @@ body {
     top: 0;
     z-index: 1000;
     padding: 1rem;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .navbar.scrolled {
-    background-color: #3AAFA9; /* New background color on scroll */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    background-color: #3AAFA9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-container {
