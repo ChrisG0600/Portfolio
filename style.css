@@ -190,7 +190,7 @@ body {
     padding: 2.5rem;
     flex-wrap: wrap; 
     height: 100vh; 
-    animation: fadeInTop 1s ease-in-out;
+    animation: fadeInZoom 1.5s ease-in-out;
 }
 
 .left-content {
@@ -409,7 +409,7 @@ body {
 .modal {
     margin: auto;
     padding: 1.5rem;
-    max-width: 50ch;
+    max-width: 80ch;
     border: none;
     border-radius: 20px;
     box-shadow: 0 0 1em rgb(0 0 0 / 0.3);
