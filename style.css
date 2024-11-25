@@ -308,7 +308,7 @@ body {
 .about-container{
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 10px;
     color: #757575;
 }
 
